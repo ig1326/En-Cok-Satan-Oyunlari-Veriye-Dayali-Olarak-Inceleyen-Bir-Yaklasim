@@ -26,4 +26,5 @@ nltk.download('punkt')
     
 nltk.download('stopwords')
 
+#Uzantıların Çalıştırılmasıyla Elde Edilen Grafik ve Çıktılar
 
