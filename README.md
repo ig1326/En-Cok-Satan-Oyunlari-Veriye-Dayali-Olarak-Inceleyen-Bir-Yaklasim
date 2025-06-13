@@ -3,6 +3,7 @@
 # Gerekli kütüphanelerin kurulumu
 ✅Temel Veri İşleme
     pip install pandas numpy
+
 ✅Görselleştirme
     pip install matplotlib seaborn
 ✅Makine Öğrenmesi – Modelleme & Ölçüm
