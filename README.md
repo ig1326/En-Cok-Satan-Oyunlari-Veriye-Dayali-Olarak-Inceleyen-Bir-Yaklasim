@@ -2,25 +2,28 @@
 
 # Gerekli kütüphanelerin kurulumu
 ✅Temel Veri İşleme
-    pip install pandas numpy
+   → pip install pandas numpy
 
 ✅Görselleştirme
-    pip install matplotlib seaborn
+   → pip install matplotlib seaborn
 
 ✅Makine Öğrenmesi – Modelleme & Ölçüm
-    pip install scikit-learn
+   → pip install scikit-learn
 
 ✅Çoklu etiket işleme (MultiLabelBinarizer scikit-learn içinde yer alır)
-    → Ayrı bir kurulum gerekmez
+   → Ayrı bir kurulum gerekmez
 
 ✅Kümeleme (K-Means) & Boyut indirgeme (PCA)
-    → scikit-learn paketi içinde
+   → scikit-learn paketi içinde
 
 ✅Natural Language Toolkit (opsiyonel – nltk kullanırsan):
-    pip install nltk
+   → pip install nltk
     Ayrıca nltk kütüphanesini kullanacaksan bu satırı da eklemelisin (ilk çalıştırmada):
-      import nltk
-    nltk.download('punkt')
-    nltk.download('stopwords')
-—
+      
+import nltk
+    
+nltk.download('punkt')
+    
+nltk.download('stopwords')
+
 
