@@ -56,7 +56,7 @@ nltk.download('stopwords')
 
 ![image](https://github.com/user-attachments/assets/48a9c2e5-f4b8-4907-8c79-c8ea9cd56ea4)
 
-💼 kumeleme_modeli.py
+💼 ortalamadil_fiyat.py
 
 ![dilsayisinagoreindire](https://github.com/user-attachments/assets/daeb6911-14e1-4df2-bcf6-bc08e189e8d1)
 
