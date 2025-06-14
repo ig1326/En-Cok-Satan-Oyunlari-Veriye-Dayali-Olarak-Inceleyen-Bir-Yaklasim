@@ -38,6 +38,9 @@ nltk.download('stopwords')
 
 ![oyunpuandagilimi](https://github.com/user-attachments/assets/450886db-1bb5-4143-a9e1-a4c9656a072a)
 
+![image](https://github.com/user-attachments/assets/a5f72a73-4468-43dd-b6d2-4dc8cdf3da8d)
+
+
 
 
 
