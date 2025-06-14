@@ -54,6 +54,20 @@ nltk.download('stopwords')
 
 ![kumeleme](https://github.com/user-attachments/assets/8f590a7e-1cf5-449f-868a-fed8fc6e488d)
 
+![image](https://github.com/user-attachments/assets/48a9c2e5-f4b8-4907-8c79-c8ea9cd56ea4)
+
+💼 kumeleme_modeli.py
+
+![dilsayisinagoreindire](https://github.com/user-attachments/assets/daeb6911-14e1-4df2-bcf6-bc08e189e8d1)
+
+![fiyataraliginagoreincelme](https://github.com/user-attachments/assets/6fdb9649-9871-47d6-98c4-eb4d351d4397)
+
+![fiyataraligi](https://github.com/user-attachments/assets/736cc15e-9090-48aa-9b12-58963737f7bd)
+
+
+
+
+
 
 
 
