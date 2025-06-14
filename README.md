@@ -46,6 +46,17 @@ nltk.download('stopwords')
 
 ![kararagaci](https://github.com/user-attachments/assets/7982ad8d-8bb8-4965-81fb-994ac9eed445)
 
+![image](https://github.com/user-attachments/assets/5c2af7eb-4214-46a3-9efd-d781a71515be)
+
+💼 kumeleme_modeli.py
+
+![elbow](https://github.com/user-attachments/assets/221af70b-9fb2-4278-afad-773d53b3a380)
+
+![kumeleme](https://github.com/user-attachments/assets/8f590a7e-1cf5-449f-868a-fed8fc6e488d)
+
+
+
+
 
 
 
