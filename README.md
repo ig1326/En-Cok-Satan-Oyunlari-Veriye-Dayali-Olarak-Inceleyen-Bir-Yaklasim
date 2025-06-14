@@ -32,5 +32,13 @@ nltk.download('stopwords')
 
 ![image](https://github.com/user-attachments/assets/b12f8f97-bf7c-4d1e-a62f-1be484d743aa)
 
+💼 aykirilik_kontrol.py
+
+![ayrıkırıdeger](https://github.com/user-attachments/assets/f083fc4a-072c-4aec-b0d5-37011efc7ee2)
+
+![oyunpuandagilimi](https://github.com/user-attachments/assets/450886db-1bb5-4143-a9e1-a4c9656a072a)
+
+
+
 
 
