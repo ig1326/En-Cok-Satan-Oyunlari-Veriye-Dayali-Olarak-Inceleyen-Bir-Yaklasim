@@ -28,3 +28,9 @@ nltk.download('stopwords')
 
 # Uzantıların Çalıştırılmasıyla Elde Edilen Grafik ve Çıktılar
 
+💼 en_cok_satan_oyun.py
+
+![image](https://github.com/user-attachments/assets/b12f8f97-bf7c-4d1e-a62f-1be484d743aa)
+
+
+
