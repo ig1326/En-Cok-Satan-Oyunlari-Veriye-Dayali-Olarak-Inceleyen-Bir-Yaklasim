@@ -40,6 +40,14 @@ nltk.download('stopwords')
 
 ![image](https://github.com/user-attachments/assets/a5f72a73-4468-43dd-b6d2-4dc8cdf3da8d)
 
+💼 siniflandirma_modeli.py
+
+![konfüzyon matrisi](https://github.com/user-attachments/assets/3c607d3d-a696-49e3-adf6-fc37a9005b40)
+
+![kararagaci](https://github.com/user-attachments/assets/7982ad8d-8bb8-4965-81fb-994ac9eed445)
+
+
+
 
 
 
